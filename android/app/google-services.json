@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "822531910483",
+    "firebase_url": "https://fttest-88aad.firebaseio.com",
+    "project_id": "fttest-88aad",
+    "storage_bucket": "fttest-88aad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822531910483:android:ea4d70646aff52a0fb4fa6",
+        "android_client_info": {
+          "package_name": "com.maxtest.maxfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822531910483-fmcee6kq0epajjv2vrfpvq3cm8gv47e8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoIk6hk-tTNXN96gHpQdlgLDLoN9akOiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822531910483-fmcee6kq0epajjv2vrfpvq3cm8gv47e8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
